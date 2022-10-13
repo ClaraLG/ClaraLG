@@ -1,6 +1,6 @@
 ### Hey! 🙋🏻‍♀️
 
-- 🌱 I’m currently learning the basics of the main programming languages: Java, JavaScript, HTML, CSS, PHP, SQL.
+- 🌱 I’m currently learning the basics of the main programming languages: Java, JavaScript, HTML, CSS, PHP, SQL, XML.
 - 🧠 I'm excited to learn more about JavaScript Frameworks and libraries, specially Three.js
 - 👯 I’m looking to collaborate on the front-end for a new project.
 - 📫 Contact: you can send me a message on Linkedin -> https://www.linkedin.com/in/clara-garnes-garc%C3%ADa-1a555b157/
